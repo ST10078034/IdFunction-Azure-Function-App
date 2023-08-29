@@ -1,0 +1,310 @@
+[
+  {
+    "Identifier": "A78123456",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-10-01",
+    "Name": "Van Balsillie",
+    "Clinic": "Clinic A"
+  },
+  {
+    "Identifier": "9611284567890",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-10-10",
+    "Name": "Rosie Gotthard",
+    "Clinic": "Clinic A"
+  },
+  {
+    "Identifier": "L45678901",
+    "Vaccinated": true,
+    "VaccinationDate": "2021-11-26",
+    "Name": "Mar Andreia",
+    "Clinic": "Clinic C"
+  },
+  {
+    "Identifier": "G87654321",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-01-24",
+    "Name": "Ileana Groundwator",
+    "Clinic": "Clinic B"
+  },
+  {
+    "Identifier": "8803150123456",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-05-09",
+    "Name": "Berny Duchant",
+    "Clinic": "Clinic D"
+  },
+  {
+    "Identifier": "A78123456",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-04-13",
+    "Name": "Dede Carnegy",
+    "Clinic": "Clinic A"
+  },
+  {
+    "Identifier": "G87654321",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-06-05",
+    "Name": "Ange Beteriss",
+    "Clinic": "Clinic A"
+  },
+  {
+    "Identifier": "8803150123456",
+    "Vaccinated": true,
+    "VaccinationDate": "2021-10-20",
+    "Name": "Belva Truscott",
+    "Clinic": "Clinic D"
+  },
+  {
+    "Identifier": "B14567890",
+    "Vaccinated": true,
+    "VaccinationDate": "2023-06-08",
+    "Name": "Emmalynne Bundey",
+    "Clinic": "Clinic C"
+  },
+  {
+    "Identifier": "Y98765432",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-09-19",
+    "Name": "Lorena Probbing",
+    "Clinic": "Clinic C"
+  },
+  {
+    "Identifier": "M56789012",
+    "Vaccinated": true,
+    "VaccinationDate": "2023-04-10",
+    "Name": "Maynord Pyvis",
+    "Clinic": "Clinic A"
+  },
+  {
+    "Identifier": "O78901234",
+    "Vaccinated": true,
+    "VaccinationDate": "2021-12-26",
+    "Name": "Allyce Gheorghe",
+    "Clinic": "Clinic B"
+  },
+  {
+    "Identifier": "G87654321",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-11-30",
+    "Name": "Chris Feldbau",
+    "Clinic": "Clinic B"
+  },
+  {
+    "Identifier": "9511149012345",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-12-13",
+    "Name": "Henriette Maddrell",
+    "Clinic": "Clinic A"
+  },
+  {
+    "Identifier": "A78123456",
+    "Vaccinated": true,
+    "VaccinationDate": "2021-11-07",
+    "Name": "Chance Warren",
+    "Clinic": "Clinic B"
+  },
+  {
+    "Identifier": "1234567890123",
+    "Vaccinated": true,
+    "VaccinationDate": "2023-01-20",
+    "Name": "Katuscha Gravell",
+    "Clinic": "Clinic A"
+  },
+  {
+    "Identifier": "G87654321",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-06-10",
+    "Name": "Daisie Lindblad",
+    "Clinic": "Clinic C"
+  },
+  {
+    "Identifier": "M56789012",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-07-23",
+    "Name": "Nata Rioch",
+    "Clinic": "Clinic B"
+  },
+  {
+    "Identifier": "Z54321678",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-12-15",
+    "Name": "Claresta Spottiswoode",
+    "Clinic": "Clinic C"
+  },
+  {
+    "Identifier": "9611284567890",
+    "Vaccinated": true,
+    "VaccinationDate": "2023-03-06",
+    "Name": "Harwell Galiford",
+    "Clinic": "Clinic C"
+  },
+  {
+    "Identifier": "8912263456789",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-12-25",
+    "Name": "Peirce Sonnenschein",
+    "Clinic": "Clinic A"
+  },
+  {
+    "Identifier": "P89012345",
+    "Vaccinated": true,
+    "VaccinationDate": "2023-02-19",
+    "Name": "Cherlyn Filipczynski",
+    "Clinic": "Clinic D"
+  },
+  {
+    "Identifier": "8902076789012",
+    "Vaccinated": true,
+    "VaccinationDate": "2023-01-31",
+    "Name": "Gothart Duerden",
+    "Clinic": "Clinic B"
+  },
+  {
+    "Identifier": "J23456789",
+    "Vaccinated": true,
+    "VaccinationDate": "2023-08-03",
+    "Name": "Garwin Abramovic",
+    "Clinic": "Clinic A"
+  },
+  {
+    "Identifier": "M56789012",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-12-01",
+    "Name": "Cordy McMearty",
+    "Clinic": "Clinic D"
+  },
+  {
+    "Identifier": "F43210987",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-08-10",
+    "Name": "Wait Croydon",
+    "Clinic": "Clinic D"
+  },
+  {
+    "Identifier": "9102126789012",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-09-22",
+    "Name": "Oneida Abeau",
+    "Clinic": "Clinic A"
+  },
+  {
+    "Identifier": "A78123456",
+    "Vaccinated": true,
+    "VaccinationDate": "2021-12-19",
+    "Name": "Bailie Rozzell",
+    "Clinic": "Clinic D"
+  },
+  {
+    "Identifier": "J23456789",
+    "Vaccinated": true,
+    "VaccinationDate": "2021-12-02",
+    "Name": "Rollo Birch",
+    "Clinic": "Clinic D"
+  },
+  {
+    "Identifier": "Z54321678",
+    "Vaccinated": true,
+    "VaccinationDate": "2023-04-19",
+    "Name": "Melitta Smyth",
+    "Clinic": "Clinic C"
+  },
+  {
+    "Identifier": "A78123456",
+    "Vaccinated": true,
+    "VaccinationDate": "2023-04-13",
+    "Name": "Colman Daine",
+    "Clinic": "Clinic B"
+  },
+  {
+    "Identifier": "8912263456789",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-05-09",
+    "Name": "Brandi Langhor",
+    "Clinic": "Clinic B"
+  },
+  {
+    "Identifier": "9310107890123",
+    "Vaccinated": true,
+    "VaccinationDate": "2023-01-16",
+    "Name": "Julietta McSaul",
+    "Clinic": "Clinic C"
+  },
+  {
+    "Identifier": "9102126789012",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-04-23",
+    "Name": "Jillene Blackway",
+    "Clinic": "Clinic B"
+  },
+  {
+    "Identifier": "9102126789012",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-08-17",
+    "Name": "Bernete French",
+    "Clinic": "Clinic A"
+  },
+  {
+    "Identifier": "P89012345",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-09-21",
+    "Name": "Minerva Licari",
+    "Clinic": "Clinic C"
+  },
+  {
+    "Identifier": "Q90123456",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-07-22",
+    "Name": "Patrick Spedroni",
+    "Clinic": "Clinic D"
+  },
+  {
+    "Identifier": "8803150123456",
+    "Vaccinated": true,
+    "VaccinationDate": "2021-11-17",
+    "Name": "Gregoire Kliement",
+    "Clinic": "Clinic B"
+  },
+  {
+    "Identifier": "X23987654",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-11-10",
+    "Name": "Lelah Curnucke",
+    "Clinic": "Clinic A"
+  },
+  {
+    "Identifier": "9310107890123",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-07-15",
+    "Name": "Humfrey Vedenyapin",
+    "Clinic": "Clinic A"
+  },
+  {
+    "Identifier": "Y98765432",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-10-20",
+    "Name": "Carolina Hayer",
+    "Clinic": "Clinic B"
+  },
+  {
+    "Identifier": "E76543210",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-03-16",
+    "Name": "Rafaelia Odell",
+    "Clinic": "Clinic B"
+  },
+  {
+    "Identifier": "Q90123456",
+    "Vaccinated": true,
+    "VaccinationDate": "2023-06-25",
+    "Name": "Dulcinea Clifft",
+    "Clinic": "Clinic D"
+  },
+  {
+    "Identifier": "9012221234567",
+    "Vaccinated": true,
+    "VaccinationDate": "2022-07-17",
+    "Name": "Micky Grabbam",
+    "Clinic": "Clinic A"
+  }
+]
