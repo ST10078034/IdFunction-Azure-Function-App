@@ -119,7 +119,7 @@ namespace IdFunction.Functions
             }
             else
             {
-                // return ValidationResult obect that has error message to user explaining error
+                // return ValidationResult object that has error message to user explaining error
                 return new ValidationResult
                 {
                     IsValid = false,
