@@ -12,7 +12,7 @@ using System.Linq;
 using Newtonsoft.Json;
 using System.Text.Json;
 
-namespace id.Functions
+namespace IdFunction.Functions
 {
     public static class IdFunction
     {
@@ -135,6 +135,10 @@ namespace id.Functions
             // json file location in the Hosted azure function 
             // Used Kudu Debugger to find the file location of the json when I deployed the function
             string jsonFilePath = Path.Combine(Environment.GetEnvironmentVariable("HOME"), "site", "wwwroot", "vaccinations.json");
+
+            // Json File path if you want to run locally
+            // uncomment line bellow and comment out line above
+            // string jsonFilePath = "Data/vaccinations.json";
 
             string json = jsonFilePath;
 
