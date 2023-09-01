@@ -56,7 +56,7 @@ namespace IdFunction.Functions
                 }
 
                 // ternary expression determining whether the input is a id or passport
-                // if condidtion is true then id is returned if condition is flase passport is returned
+                // if condidtion is true then id is assigned to responseMessage if flase passport is assigned to responseMessage
                 string responseMessage = id.Length == 13
                 ? $"Received ID: {id}"
                 : $"Received Passport: {id}";
