@@ -10,7 +10,6 @@ using System;
 using System.IO;
 using System.Linq;
 using Newtonsoft.Json;
-using System.Text.Json;
 
 namespace IdFunction.Functions
 {
@@ -87,7 +86,7 @@ namespace IdFunction.Functions
                     VaccinationData = vaccinationInfo,
                 };
 
-                // Serialise the json response object and indent it 
+                // Serialise the json response object and Format it wit indentation 
                 string json = JsonConvert.SerializeObject(responseObject, Formatting.Indented);
 
                 // return the json response to endpoint
@@ -138,6 +137,8 @@ namespace IdFunction.Functions
 
             // Json File path if you want to run locally
             // uncomment line bellow and comment out line above
+            //  |
+            //  v
             // string jsonFilePath = "Data/vaccinations.json";
 
             string json = jsonFilePath;
