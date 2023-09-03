@@ -44,7 +44,7 @@ namespace IdFunction.Functions
             try
             {
                 // return error to user if api endpoint is not entered
-                if (string.IsNullOrEmpty(id))
+                if (string.IsNullOrEmpty(id) || id == "id")
                 {
                     log.LogInformation("Vaccination function processed a request with error.");
                     return new BadRequestObjectResult(new
