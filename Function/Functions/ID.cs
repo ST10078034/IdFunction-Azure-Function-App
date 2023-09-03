@@ -127,7 +127,7 @@ namespace IdFunction.Functions
             }
         }
 
-        // method used to check if input from user has vallues attached to it
+        // method used to check if input from user has values attached to it
         // if value not found in the switch it returns (vaccinated = false) and all other values are null
         private static async Task<VaccinationInfo> GetVaccinationInfo(string identifier)
         {
