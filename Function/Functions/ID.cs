@@ -133,7 +133,7 @@ namespace IdFunction.Functions
         {
             // json file location in the Hosted azure function 
             // Used Kudu Debugger to find the file location of the json when I deployed the function
-            string jsonFilePath = Path.Combine(Environment.GetEnvironmentVariable("HOME"), "site", "Data", "wwwroot", "vaccinations.json");
+            string jsonFilePath = Path.Combine(Environment.GetEnvironmentVariable("HOME"), "site", "wwwroot", "Data", "vaccinations.json");
 
             // Json File path if you want to run locally
             // uncomment line bellow and comment out line above
